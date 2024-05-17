@@ -1,0 +1,24 @@
+.header_content{
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 2px;
+  p{
+    font-size: 7px;
+    color: #444444;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+.header_items{
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+  margin-top: 2px;
+  i{
+    font-size: 7px;
+    margin-right: 4px;
+    color: #444444;
+  }
+}
